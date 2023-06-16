@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I'm currently working on Front-End Web Development.<br>🌍 I'm looking to collaborate on Web Projects.<br>🤝 I'm seeking help with HTML, CSS, JavaScript, etc.<br>🌱 I'm currently learning REACT.<br>💬 Ask me anything about Web Development.
+👨🏻‍💻 I'm currently working on Junior Front-End Web Development.<br>🌍 I'm looking to collaborate on Web Projects.<br>🤝 I'm seeking help with HTML, CSS, JavaScript, etc.<br>🌱 I'm currently learning DJANGO.<br>💬 You Can Ask me anything about Web Development.
 
 
 ## 🌐 Socials:
